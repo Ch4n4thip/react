@@ -21,7 +21,7 @@ const onMouseOverRow = (i) => {
 }
 
 const onMouseOutRow = (i) => {
-    tr.current[i].style.backgroundColor = 'while' 
+    tr.current[i].style.backgroundColor = '#ffffff' 
 }
 
 const tableStyles = { margin:'auto' , marginTop:30}
